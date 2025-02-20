@@ -3907,9 +3907,3 @@ MEDIA QUERIES
 	bottom:14px!important;  
 	right: 50px!important;  
 }
-
-@media (max-width: 600px) {
-    .logo-1 {
-        top: 10px;
-    }
-}
